@@ -1,17 +1,22 @@
-# Home Server Infra Base
+# HLab Infra Base
 
 ## Objetivo
-Detalhar as etapas de criação de um servidor Linux com Docker e backup automático
+- Detalhar as etapas de criação de um servidor Linux com Docker e backup automático
+- Criar Scripts para replicar estas configurações em outras maquinas
 
 ## Tecnologias usadas
 - Ubuntu Server
+- UFW
+- Fail2Ban
 - Docker
 - Nginx
 - rsync
 
 ## Etapas realizadas
 1. Instalação do Ubuntu
-2. Configuração SSH
-3. Instalação Docker
-4. Criação servidor web
-5. Backup automático
+2. Atualização do sistema
+3. Configuração do UFW
+4. Configuração do Fail2Ban 
+5. Instalação Docker
+6. Criação servidor web
+7. Backup automático
