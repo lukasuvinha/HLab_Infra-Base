@@ -1,4 +1,4 @@
-# HLab Infra Base
+# HLab
 
 ## Objetivo
 - Montar um servidor laboratório caseiro Linux com Docker e backup automático
