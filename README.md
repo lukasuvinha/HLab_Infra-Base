@@ -8,8 +8,10 @@
 - Ubuntu Server
 - UFW
 - Fail2Ban
-- Docker
 - Nginx
+- Docker
+  - Pi-Hole
+  - Grafana + Prometheus
 - rsync
 
 ## Etapas realizadas
