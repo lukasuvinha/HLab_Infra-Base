@@ -10,7 +10,8 @@
 - Fail2Ban
 - Docker
   - Nginx
-  - Pi-Hole
+  - CrowdSec
+  - Pi-Hole/ AdGuard
   - Grafana + Prometheus
 - rsync
 - Ansible
