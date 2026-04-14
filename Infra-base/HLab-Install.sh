@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env *sh 
+﻿#!/usr/bin/env bash 
 
 ### Verificar conexão com insternet
 echo "
